@@ -1,0 +1,3 @@
+C:\Users\isikh\source\repos\SocketIO_Basic_ChatApp\SocketIO_Basic_ChatApp\obj\Debug\SocketIO_Basic_ChatApp.njsprojAssemblyReference.cache
+C:\Users\isikh\source\repos\SocketIO_Basic_ChatApp\SocketIO_Basic_ChatApp\obj\Debug\SocketIO_Basic_ChatApp.njsproj.CoreCompileInputs.cache
+C:\Users\isikh\source\repos\SocketIO_Basic_ChatApp\SocketIO_Basic_ChatApp\bin\Microsoft.NodejsTools.WebRole.dll
