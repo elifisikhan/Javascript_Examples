@@ -1,2 +1,1 @@
-# NodeJS
-NodeJS Examples
+# JAVASCRIPT EXAMPLES
